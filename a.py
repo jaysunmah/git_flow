@@ -6,6 +6,6 @@ blah blah blah weeee
 more changes in branch1
 
 
-diffs made in branch2
-more changes, yayayayay
-abc
+
+
+here are some more additions made in branch1
